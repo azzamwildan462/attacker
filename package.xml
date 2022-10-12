@@ -10,7 +10,7 @@
 
   <build_depend>multirole_func</build_depend>
   <build_depend>motion</build_depend>
-  <build_depend>motion</build_depend>
+  <build_depend>utils</build_depend>
 
 
   <export>
